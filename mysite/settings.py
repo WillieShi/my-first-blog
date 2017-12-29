@@ -25,7 +25,7 @@ SECRET_KEY = 'ctfv!pks590vi7un$@c)#k=5nb#gs9&e4+7(gdr-1&*+vy@&ky'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'shiguy.pythonanywhere.com']
 
 
 # Application definition
